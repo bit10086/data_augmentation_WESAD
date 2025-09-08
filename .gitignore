@@ -1,0 +1,27 @@
+# 数据集与大文件
+WESAD/
+*.npy
+*.mat
+*.csv
+*.npz
+*.tar
+*.zip
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+.vscode/
+
+# 虚拟环境
+venv/
+.env/
+.envrc/
+
+# 系统
+.DS_Store
+Thumbs.db
